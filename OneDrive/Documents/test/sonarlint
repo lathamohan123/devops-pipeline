@@ -1,0 +1,10 @@
+"sonarlint.rules": {
+    "javascript:1481": {
+        "level": "off",
+    "javascript:S103": {
+        "level": "on",
+        "parameters": {
+            "maximumLineLength": "120"
+        }
+    }
+}
